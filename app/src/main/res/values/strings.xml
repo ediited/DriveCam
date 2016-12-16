@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DriveCam</string>
+    <string name="camera">cam</string>
+    <string name="imageofcamera">bildfinal</string>
+</resources>
